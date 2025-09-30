@@ -7,7 +7,7 @@ const App = () => {
 			<h1 className='text-2xl text-center mb-2'>Hello, World!</h1>
 			<Button>
 				<HomeIcon />
-				Домой
+				Домой вот
 			</Button>
 		</div>
 	)
